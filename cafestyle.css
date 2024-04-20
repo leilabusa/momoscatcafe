@@ -1,0 +1,63 @@
+body {
+      margin: 0 0;
+      font-family: sans-serif;
+      text-align: center;
+      background: #ffd8d8 no-repeat center 100px fixed;
+      font-weight: 400;
+      }
+      header {
+        background-color: #ff8ecc;
+        text-align: center;
+      }
+      h1, .sansita-swashed-titletext {
+        color: #970000;
+        font-size: 4em;
+        text-align: center;
+        font-family: "Sansita Swashed", system-ui;
+          font-optical-sizing: auto;
+          font-weight: 500;
+          font-style: normal;
+        }
+        h2 {
+        color: #970000;
+        font-size: 2em;
+        text-align: center;
+        }
+    a {
+      text-decoration: none;
+    }
+    a:link {
+      color: rgb(201, 39, 39);
+    }
+    a:visited {
+      color: #7d0400f7;
+    }
+    a:focus, a:hover {
+      color: #eb1717;
+      background-color: #fff0f9;
+    }
+    a:active {
+      color: #eb1717;
+      background-color: #fff0f9;
+    }
+    table, td, th {
+      background-color: #fc4653;
+    }
+    strong {
+      font-style: italic;
+    }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    .price {
+      font-family: Georgia, serif;
+      font-style: italic;
+    }
+    footer {
+      border-top: 1px solid #371b09f7;
+      text-align: center;
+      padding-top: 1em;
+      background-color: #ffd8d8;
+    }
